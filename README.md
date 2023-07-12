@@ -11,4 +11,5 @@ More about the project could be found in the paper:
 Workshop providers' contact information:
  
 [Milovan Medojevic](https://www.linkedin.com/in/milovan-medojevic/)
+
 [Marko Vasiljevic-Toskic](https://www.linkedin.com/in/marko-vasiljevic-toskic-895588151/)
