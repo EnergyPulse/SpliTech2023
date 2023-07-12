@@ -46,7 +46,10 @@ The image below illustrates the positioning of the modules on the PCB:
 
 ![PCB Assembly](https://github.com/EnergyPulse/SpliTech2023/assets/135071946/360691b1-045a-4ad4-9f51-d3f68c684465)
 
+## Programming Environment
 
+For the purpose of Workshop execution Arduino IDE version 1.8.13 was used. 
+This version could be downloaded from the official [webpage](https://www.arduino.cc/en/software/OldSoftwareReleases).
 
 
 
