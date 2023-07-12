@@ -6,5 +6,7 @@ The session combines academic concepts with practical exercises in a hands-on ap
 
 More about the project could be found in the paper:
 
-**M. Medojevic et al. (2023), _Design and development of an IoT learning system for health-related applications_, Proceedings of the 8<sup>th</sup> International Conference on Smart and Sustainable Technologies - Splitech 2023, June 20-23, 2023, Split - Bol, Croatia. IEEE Catalog No.: CFP23F09-USB, ISBN: 978-953-290-127-6**
+[**M. Medojevic et al. (2023), _Design and development of an IoT learning system for health-related applications_, Proceedings of the 8<sup>th</sup> International Conference on Smart and Sustainable Technologies - Splitech 2023, June 20-23, 2023, Split - Bol, Croatia. IEEE Catalog No.: CFP23F09-USB, ISBN: 978-953-290-127-6**](https://github.com/EnergyPulse/SpliTech2023/blob/main/Design%20and%20development%20of%20an%20IoT%20learning%20system%20for%20health-related%20applications.pdf)
+
+
  
