@@ -33,7 +33,7 @@ The main functionalities learners can develop during the practical training are 
 
 [Marko Vasiljevic-Toskic](https://www.linkedin.com/in/marko-vasiljevic-toskic-895588151/)
 
-# The PCB (Iot Day WORKSHOP)
+# The PCB (IoT Day WORKSHOP)
 
 The general outlook of the integrational PCB, developed for this workshop, is given below:
 
