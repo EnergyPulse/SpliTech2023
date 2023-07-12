@@ -51,7 +51,14 @@ The image below illustrates the positioning of the modules on the PCB:
 For the purpose of Workshop execution Arduino IDE version 1.8.13 was used. 
 This version could be downloaded from the official [webpage](https://www.arduino.cc/en/software/OldSoftwareReleases).
 
+# The Name Tag / Conference Accreditation project
 
+All of the registered participants of the SpliTech2023 Conference were provided with the PCB as a part of their conference accreditation (name tag) badge.
+This PCB looks like this:
+
+![ACR](https://github.com/EnergyPulse/SpliTech2023/assets/135071946/a9167f56-c7a4-4e7c-b262-ba69f06ba1b1)
+
+Use the provided [examples](https://github.com/EnergyPulse/SpliTech2023/tree/main/IoT_Workshop_Examples) to start your own prototyping.
 
 
 
