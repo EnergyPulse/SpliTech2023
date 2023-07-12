@@ -66,7 +66,7 @@ For the **DS18b20 temp probe** utilization, the middle pin of sensor DS18b20 on 
 All of the registered participants of the SpliTech2023 Conference were provided with the PCB as a part of their conference accreditation (name tag) badge.
 This PCB looks like this:
 
-![ACR](https://github.com/EnergyPulse/SpliTech2023/assets/135071946/a9167f56-c7a4-4e7c-b262-ba69f06ba1b1)
+![ACR FIN](https://github.com/EnergyPulse/SpliTech2023/assets/135071946/0dd75852-6d21-4aa7-850f-f45bd01f3235)
 
 Use the provided [examples](https://github.com/EnergyPulse/SpliTech2023/tree/main/IoT_Workshop_Examples) to start your own prototyping.
 
