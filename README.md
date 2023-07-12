@@ -48,8 +48,18 @@ The image below illustrates the positioning of the modules on the PCB:
 
 ## Programming Environment
 
-For the purpose of Workshop execution Arduino IDE version 1.8.13 was used. 
-This version could be downloaded from the official [webpage](https://www.arduino.cc/en/software/OldSoftwareReleases).
+- For the purpose of Workshop execution Arduino IDE version 1.8.13 was used. 
+- This version could be downloaded from the official [webpage](https://www.arduino.cc/en/software/OldSoftwareReleases).
+
+## How to Install FTDI Drivers
+
+- For most late versions of Windows, the hardware may work fine without any driver needing to be installed. 
+- If you however can't locate a COM port for your hardware, then the set of instructions provided [here](https://learn.sparkfun.com/tutorials/how-to-install-ftdi-drivers/windows---quick-and-easy) could ensure the possible fix.
+- The FTDI driver used at the Workshop is **cdm21228**.
+
+## Note
+
+For the **DS18b20 temp probe** utilization, the middle pin of sensor DS18b20 on board must be short-connected with one of the available pins: GPIO23, GPIO15, GPIO26.
 
 # The Name Tag / Conference Accreditation project
 
