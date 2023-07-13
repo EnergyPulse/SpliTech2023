@@ -1,6 +1,6 @@
 # SpliTech2023
 
-This documentation provides an overview regarding [IoT Day WORKSHOP](https://iotday.splitech.org/), the first significant event of [SpliTech2023](https://2023.splitech.org/home) conference on June 20<sup>th</sup>, 2023. The event was conceptualized as a tutorial session, dedicated to a specific IoT Topic entitled "_Design and development of an IoT learning system for health-related applications_".
+This documentation provides an overview regarding [IoT Day WORKSHOP](https://iotday.splitech.org/), the first significant event of [SpliTech2023](https://2023.splitech.org/home) conference held on June 20<sup>th</sup>, 2023. The event was conceptualized as a tutorial session, dedicated to a specific IoT Topic entitled "_Design and development of an IoT learning system for health-related applications_".
 
 The session combines academic concepts with practical exercises in a hands-on approach to deploy the theoretical knowledge acquired into a practical use case. Attendees are encouraged to realize their own prototypes based on provided hands-on experience, while future development possibilities could be explored respectively.
 
@@ -39,10 +39,12 @@ The general outlook of the integrational PCB, developed for this workshop, is gi
 
 ![PCB labeled - fin](https://github.com/EnergyPulse/SpliTech2023/assets/135071946/ce7c2356-9d51-4a00-bfe3-eb472ee6a9f0)
 
+Feel free to refer to the [paper](https://github.com/EnergyPulse/SpliTech2023/blob/main/Design%20and%20development%20of%20an%20IoT%20learning%20system%20for%20health-related%20applications.pdf) to familiarize with the concept, PCB schematic and module-related datasheets.
+
 ## PCB ASSEMBLY
 
 The PCB Assembly is performed in an easy manner by placing the through-hole modules in adequate headers provided on the board. Please refer to the image above to check and follow the provided pinout.
-The image below illustrates the positioning of the modules on the PCB:
+The image below illustrates the step-by-step positioning of the modules onto the PCB:
 
 ![PCB Assembly](https://github.com/EnergyPulse/SpliTech2023/assets/135071946/360691b1-045a-4ad4-9f51-d3f68c684465)
 
